@@ -1,3 +1,4 @@
+
 # Ollama Local Chatbot with Streamlit
 
 This is a simple, private chatbot interface that runs entirely on your local machine.
@@ -29,3 +30,7 @@ streamlit run app.py
 - **Frontend**: Built with Streamlit for a reactive, web-based UI.
 - **Backend**: Communicates with the Ollama local API via the `ollama-python` library.
 - **Privacy**: Your data never leaves your machine.
+
+# chatbot
+An AI-powered chatbot built with Streamlit and Ollama, featuring a modern conversational interface and local AI capabilities.
+
